@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe/static/css/main.9395e7a2.css",
+    "main.css": "/tic-tac-toe/static/css/main.204c6600.css",
     "main.js": "/tic-tac-toe/static/js/main.53867720.js",
     "static/media/baloo-thambi-2-v12-latin-regular.svg": "/tic-tac-toe/static/media/baloo-thambi-2-v12-latin-regular.3cf822d2c18b155b974f.svg",
     "static/media/baloo-thambi-2-v12-latin-regular.ttf": "/tic-tac-toe/static/media/baloo-thambi-2-v12-latin-regular.689f0494a61f47457c12.ttf",
@@ -10,11 +10,11 @@
     "static/media/sun.svg": "/tic-tac-toe/static/media/sun.4f0a00490aee7f924c5b4eae14cc34bd.svg",
     "static/media/moon.svg": "/tic-tac-toe/static/media/moon.11f61ed5366b2c04ffd3c7dfe1fe286d.svg",
     "index.html": "/tic-tac-toe/index.html",
-    "main.9395e7a2.css.map": "/tic-tac-toe/static/css/main.9395e7a2.css.map",
+    "main.204c6600.css.map": "/tic-tac-toe/static/css/main.204c6600.css.map",
     "main.53867720.js.map": "/tic-tac-toe/static/js/main.53867720.js.map"
   },
   "entrypoints": [
-    "static/css/main.9395e7a2.css",
+    "static/css/main.204c6600.css",
     "static/js/main.53867720.js"
   ]
 }
